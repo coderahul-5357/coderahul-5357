@@ -1,106 +1,90 @@
-<h1 align="center">Hi there, I'm Endla Rahul 👋</h1>
+<div align="center">
 
-<h3 align="center">AI/ML Engineer · Senior Full Stack Developer · GenAI & RAG Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:185FA5&height=200&section=header&text=Endla%20Rahul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20%26%20RAG&descAlignY=55&descSize=18" />
 
-<p align="center">
-  Building intelligent systems and scalable web platforms.<br/>
-  Currently pursuing M.Tech in AI & ML, with applied deep learning research in medical imaging.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rahulendla">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/coderahul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mr.endlarahul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/coderahul">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+with+AI%2FML;Architecting+scalable+full-stack+platforms;Researching+Deep+Learning+for+Healthcare;M.Tech+in+AI+%26+ML+%E2%80%94+CGPA+9.0%2F10&font=Fira%20Code&center=true&width=600&height=45&color=185FA5&vCenter=true&size=20" />
+</a>
 
 <br/>
 
-## 🚀 What I'm working on
+<a href="https://linkedin.com/in/rahulendla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/coderahul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mr.endlarahul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🧠 Building AI-driven platforms with **LLMs, RAG, and Generative AI**
-- 🌾 Architecting **KrishiVeda** — a cloud-native agricultural management platform on Cloudflare Workers
-- 🔬 Researching **deep learning for cardiovascular disease analysis** via echocardiography (M.Tech thesis)
-- 📚 M.Tech in Artificial Intelligence & Machine Learning — CGPA 9.0/10
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+### About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+```python
+class EndlaRahul:
+    def __init__(self):
+        self.role = "AI/ML Engineer & Senior Full Stack Developer"
+        self.education = "M.Tech in AI & ML, CGPA: 9.0/10"
+        self.focus = ["LLMs", "RAG", "Generative AI", "Deep Learning"]
+        self.current_project = "KrishiVeda - Cloud-Native AgriTech Platform"
+        self.research = "Cardiovascular Disease Analysis via Echocardiography"
+
+    def say_hi(self):
+        print("Thanks for visiting - let's build something intelligent.")
+```
+
+<br/>
+
+### Tech Arsenal
+
+<div align="center">
 
 **AI & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,mysql,prisma" />
 
 **Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-</td>
-<td valign="top" width="50%">
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,javascript,html,css" />
 
 **Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,aws,docker,vercel,git,github" />
 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-## 📊 GitHub Stats
+### GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coderahul&show_icons=true&theme=dark&hide_border=true&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderahul&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coderahul&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderahul&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=coderahul&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=coderahul&theme=radical&hide_border=true" />
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderahul&style=flat-square&color=blue" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderahul&theme=radical&hide_border=true&area=true" width="98%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### Currently exploring
+Generative AI - Agentic Workflows - LLM Fine-tuning - Edge Computing
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=coderahul&style=for-the-badge&color=185FA5" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=100&section=footer" />
+
+</div>
