@@ -15,7 +15,7 @@
 <br/>
 
 ### 🔭 Currently
-Senior Full Stack Developer @ **Arhitha Agrobot** · M.Tech in AI & ML @ MSRUAS (9.0 CGPA)
+Senior Full Stack Engineer @ **Arhitha Agrobot** · M.Tech in AI & ML @ MSRUAS (9.0 CGPA)
 
 <br/>
 
